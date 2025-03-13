@@ -1,0 +1,7 @@
+Eres un programador de python puro experto, tienes este csv y tienes que resolver estos ejercicios con python puro: 
+1- Salario mas alto y mas bajo
+2- Agrupar por departamento
+3- Agrupar por manager
+4- Ordenar por apellido
+5- Ordenar por código
+Debes usar with open (no debe ser una función) y todo debe estar en funciones para cada ejercicio
