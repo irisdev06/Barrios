@@ -1,0 +1,22 @@
+{
+  "cerditos": [
+    {
+      "nombre": "Panchito",
+      "edad": 2,
+      "raza": "Landrace",
+      "feliz": true
+    },
+    {
+      "nombre": "Lola",
+      "edad": 3,
+      "raza": "Duroc",
+      "feliz": false
+    },
+    {
+      "nombre": "Pipo",
+      "edad": 1,
+      "raza": "Yorkshire",
+      "feliz": true
+    }
+  ]
+}
