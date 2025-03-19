@@ -1,0 +1,2 @@
+Determinar el promedio salarial del archivo.
+Ver todos los empleados que pertenecen al departamento con ID = 50.
